@@ -1,0 +1,15 @@
+Licht Organiser — All Rights Reserved
+
+Copyright (c) 2026 Mark Williams (Tekcraft)
+
+Permission is hereby granted to download and use this software 
+solely for personal, non-commercial purposes.
+
+You MAY NOT:
+- Modify, copy, or adapt this software
+- Distribute or share this software with others
+- Claim authorship or ownership
+- Sell or profit from this software in any way
+
+This software is provided "as-is" without any warranty. 
+The author is not liable for any damage or data loss caused by its use.
