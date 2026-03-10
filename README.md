@@ -1,21 +1,30 @@
-Licht Organiser is a free, open software designed to organise your Documents and Downloads in a simple and efficient way.
-For every extension you may have on your computer, it compiles each into its own folder. It moves the cluttered files in your directories into their designated areas. Simply click “Organise Files” and it will immediately arrange your workflow.
-Please note: When you “Reset Organisation” inside the software, it will only target folders that are all caps up to 6 characters long, so the program avoids moving important files you may have had previously. This feature will move the extension files LichtOrganiser has previously affected back into their original destinations, placed exactly as they were beforehand. You’ll need to manually delete the folders it created. LichtOrganiser automatically prevents duplicates by renaming a file and adding a digit at the end (example: MyApplication.exe & MyApplication(1).exe). Even if you exit LichtOrganiser, you will still be able to undo across sessions.
+# LichtOrganiser
 
-CROSS-PLATFORM
-Our software works with Windows, Mac, and Linux operating systems.
+## Overview
+LichtOrganiser is a free, cross-platform utility designed to organise your **Downloads** and **Documents** folders in a simple and safe way. It **automatically sorts existing files into folders based on their file extensions**, keeping your directories clean and manageable.  
 
-UPDATES
-LichtOrganiser will eventually become an executable file without relying on Python.
-In the near future, we plan to implement a custom path directory option for users who want control over which specific files and folders to move.
-Our team will consistently work on the UI and interface to keep it fresh and user-friendly.
-We sincerely hope you find our application useful!
+## Features
+- **Organises existing files** in Downloads and Documents  
+- **Automatically creates folders** for each file extension  
+- **Prevents duplicates** by renaming files if needed  
+- **Safe reset feature** to move files back to their original locations  
+- Works across **Windows, Mac, and Linux**
 
-Developer: Mark Williams (Tekcraft)
-Credits: H3llfY73
-If you would like to donate, you can reach out to tekcraft@icloud.com. Questions and suggestions are very much appreciated! :)
+## How it Works
+1. Click **“Organise Files”** – the program scans your folders, creates folders for each file extension, and moves files into their respective folders.  
+2. To undo, click **“Reset Organisation”** – only folders created by LichtOrganiser are targeted, moving files back to their original locations safely.
 
-DISCLAIMER:
-We are not responsible for any damages caused during the use of this software.
+## Updates
+- Future versions will include **executable releases** so Python is not required.  
+- A **custom path directory option** will allow users to choose specific folders to organise.
 
+## Developer & Credits
+**Developer:** Mark Williams — Tekcraft  
+**Credits:** H3llfY73  
 
+For questions or donations, contact **tekcraft@icloud.com**.  
+
+---
+
+**DISCLAIMER:**  
+We are **not responsible for any damages** caused during the use of this software..
