@@ -14,6 +14,9 @@ LichtOrganiser is a free, cross-platform utility designed to organise your **Dow
 1. Click **“Organise Files”** – the program scans your folders, creates folders for each file extension, and moves files into their respective folders.  
 2. To undo, click **“Reset Organisation”** – only folders created by LichtOrganiser are targeted, moving files back to their original locations safely.
 
+## Important Note
+ **LichtOrganiser only organises files in your main Downloads and Documents directory. Any files already inside folders that existed **before you installed or ran LichtOrganiser** will **not be moved***, keeping your original files safe.
+ 
 ## Updates
 - Future versions will include **executable releases** so Python is not required.  
 - A **custom path directory option** will allow users to choose specific folders to organise.
