@@ -1,4 +1,4 @@
-**LichtManager** (Formely known as LichtOrganiser) is a **free open software** designed to organise your Documents & Downloads in a different way. 
+**LichtManager** (Formely known as LichtOrganiser) is a software designed to organise your Documents & Downloads in a different way. 
 
 For every extention you may have on your computer, It compiles each of these seperately into there own folders. 
 It moves the cluttered amount of files in your directorys into there designated areas. Simply click "**Organise All (Auto)**" and it will immediately arrange your workflow. 
